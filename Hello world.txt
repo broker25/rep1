@@ -1,3 +1,4 @@
 print("Hello world!")
 print("New Line")
 print("3 Line_")
+print("Hello my dear friend in Hello-advanced")
