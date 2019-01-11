@@ -1,5 +1,7 @@
-print("Hello world!")
-print("New Line")
-print("3 Line_")
-print("Hello my dear friend in Hello-advanced")
-print("Glad to see you in Hello-advanced")
+<<<<<<< HEAD
+print("Hello world!;")
+print("New Line;")
+print("3 Line_;")
+print("Hello my dear friend in Hello-advanced;")
+print("Glad to see you in Hello-advanced;")
+
